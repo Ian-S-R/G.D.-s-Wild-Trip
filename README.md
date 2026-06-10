@@ -2,8 +2,8 @@
 
 My goal for my project was to utilize the class system in Python in order to make a simple choose-your-own-adventure game in the same vein of old PC games such as "The Hobbit Software Adventure" with multiple endings depending on dialogue choices or actions. 
 
-In order to play the game, you must 
-1. First import the python modules GDWT.py and dialogue.py
+In order to play the game, you must: 
+1. First import the python modules GDWT.py and dialogue.py into your software of choice for Python.
 
 2. Then, you should assign:
 #### GDWT.GDsWildTrip() 
