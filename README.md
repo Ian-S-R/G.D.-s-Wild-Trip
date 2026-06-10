@@ -17,6 +17,6 @@ Which will then commence your game.
 4. For each chapter start, call them (exactly as spelled, without quotations) as empty to start, then call it again with the numbers next to provided actions to continue.
 #### Ex: [var].Chapter_1()
 
-There are a total of three chapters and 4 different endings depending on your dialogue choices!
+## There are a total of three chapters and 4 different endings depending on your dialogue choices!
 
-Hope you enjoy :D
+## Hope you enjoy :D
