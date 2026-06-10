@@ -10,9 +10,9 @@ In order to play the game, you must
 to a variable of your naming:
 #### [var] = GDWT.GDsWildTrip() 
 
-From there you can call on the method:
+3. From there you can call on the method:
 #### [var].new_game() 
 Which will then commence your game. 
 
-For each chapter start, call them (exactly as spelled, without quotations) as empty to start, then call it again with the numbers next to provided actions to continue.
+4. For each chapter start, call them (exactly as spelled, without quotations) as empty to start, then call it again with the numbers next to provided actions to continue.
 #### Ex: [var].Chapter_1()
